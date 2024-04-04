@@ -16,5 +16,6 @@ J'adore *Git et gitHub*
 <sup>Superscript</sup>  
 
 # Citations
-> Voici une citation  
+> Voici une citation
+
 Et là une `citation` imbriquée
