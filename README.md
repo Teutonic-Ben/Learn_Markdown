@@ -15,6 +15,6 @@ J'adore *Git et gitHub*
 <sub>Mon texte plus petit</sub>
 <sup>Superscript</sup>  
 
-#Citations
-> Voici une citation
+# Citations
+> Voici une citation  
 Et là une `citation` imbriquée
