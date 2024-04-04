@@ -31,3 +31,6 @@ git commit -m "Nom du commit"
 # Lien URL
 Un siteweb de badass: [SMBC](https://www.smbc-comics.com/)  
 Lien vers un fichier interne: [vers test.md](test.md)
+
+# Ajouter une image
+![Ben où t'es partie, Charlottine ?](https://www.lepreduclocher.fr/wp-content/uploads/FB_15_les_conseils_de_piticoq_transparent-e1617266492878.png)
