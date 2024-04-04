@@ -29,4 +29,5 @@ git commit -m "Nom du commit"
 ```
 
 # Lien URL
-Un siteweb de badass: [SMBC](https://www.smbc-comics.com/)
+Un siteweb de badass: [SMBC](https://www.smbc-comics.com/)  
+Lien vers un fichier interne: [vers test.md](test.md)
