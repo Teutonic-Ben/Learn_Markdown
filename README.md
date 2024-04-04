@@ -22,8 +22,8 @@ Et là une `citation` imbriquée
 
 # Code dans le MarkDown
 Pour faire un commit
-'''
+```
 git status  
 git add -A  
 git commit -m "Nom du commit"
-'''
+```
