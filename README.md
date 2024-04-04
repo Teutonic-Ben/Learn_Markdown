@@ -50,3 +50,9 @@ Héhéhé :smirk:
 1. lapin
 2. chat
 3. bistouri
+
+## Liste imbriquée
+* Element 1
+  * Element 1.A
+    * Element 1.A.1
+    * Element 1.A.2
