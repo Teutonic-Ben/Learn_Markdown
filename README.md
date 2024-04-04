@@ -13,4 +13,8 @@ Nous avons un __un texte__ qui est à la fois en gras et simple
 J'adore *Git et gitHub*  
 ~~Oups j'ai chié dans la colle~~  
 <sub>Mon texte plus petit</sub>
-<sup>Superscript</sup>
+<sup>Superscript</sup>  
+
+#Citations
+> Voici une citation
+Et là une `citation` imbriquée
