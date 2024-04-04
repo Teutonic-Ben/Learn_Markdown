@@ -20,5 +20,4 @@ J'adore *Git et gitHub*
 ~~Oups j'ai chié dans la colle~~
 
 <sub>Mon texte plus petit</sub>
-
 <sup>Superscript</sup>
