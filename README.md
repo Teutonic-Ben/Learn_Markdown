@@ -39,3 +39,14 @@ Lien vers un fichier interne: [vers test.md](test.md)
 Pour trouver la liste des émoji dispo avec GitHub: [Liste des émojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
 Huuuuuum :thinking:  
 Héhéhé :smirk:
+
+# Listes
+## Liste simple
+* Element A  
+* Element B  
+* Element C
+
+## Liste ordonnée
+1. lapin
+2. chat
+3. bistouri
